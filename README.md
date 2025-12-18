@@ -59,7 +59,7 @@ FedALT is a novel federated learning framework for efficient fine-tuning of larg
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/FedALT.git
+git clone https://github.com/jmbian/FedALT.git
 cd FedALT
 
 # Install dependencies
