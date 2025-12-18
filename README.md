@@ -24,11 +24,11 @@ FedALT is a novel federated learning framework for efficient fine-tuning of larg
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                    Federated Server                      │
+│                    Federated Server                    │
 │  ┌──────────────────────────────────────────────────┐  │
 │  │  Rest-of-World LoRA Aggregation                  │  │
 │  │  • Aggregate parameters from other clients       │  │
-│  │  • Adaptive MOE routing mechanism                    │  │
+│  │  • Adaptive MOE routing mechanism                │  │
 │  └──────────────────────────────────────────────────┘  │
 └─────────────────────────────────────────────────────────┘
                           │
