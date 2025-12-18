@@ -11,7 +11,7 @@ Official implementation of **FedALT: Federated Fine-Tuning through Adaptive Loca
 
 ## Overview
 
-FedALT is a novel federated learning framework for efficient fine-tuning of large language models (LLMs) in heterogeneous data environments. Our approach introduces a*dual-LoRA architecture with intelligent routing mechanisms:
+FedALT is a novel federated learning framework for efficient fine-tuning of large language models (LLMs) in heterogeneous data environments. Our approach introduces a dual-LoRA architecture with intelligent routing mechanisms:
 
 - **Dual-LoRA Architecture**: Each client maintains two LoRA adapters:
   - **LoRA0 (Rest-of-World)**: Aggregated knowledge from all other clients
